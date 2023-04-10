@@ -1,9 +1,10 @@
 package com.example.springbootdto.LearningSpringDto.student.entity;
 
-import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+
+import javax.persistence.*;
 
 @Entity
 @NoArgsConstructor
